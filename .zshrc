@@ -110,3 +110,5 @@ source /home/ronny/.secrets
 alias ls='ls --color=never'
 alias ll='ls -alG --color=never'
 alias watch='watch '
+
+eval "$(direnv hook zsh)"
